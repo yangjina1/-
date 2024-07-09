@@ -1,0 +1,59 @@
+.ss {
+  background-color:red;
+  color: white;
+  border-radius: 20px;
+  width: fit-content;
+  /*padding:top right bottom left*/
+  padding: 3px 8px 3px 8px;
+  font-size: 10px;
+  font-weight: 800px;
+  text-align: center;
+  
+
+.today{
+
+  background-color:palevioletred;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: 10px;
+  font-weight: 800px;
+  width: fit-content;
+text-align: center;
+
+
+}
+background-color: palevioletred;
+color: white;
+border-radius: 10px;
+padding: 10px;
+font-size: 10px;
+  font-weight: 10px;
+  width: fit-content;
+
+
+.dream{
+background-color:darkblue;
+color: white;
+border-radius: 10px;
+padding: 10px;
+font-size: 10px;
+  font-weight: 10px;
+  width: fit-content;
+  /* 테두리 꾸미기*/
+  /*두께 선스타일 선색깔*/
+  border: 1px;sol
+
+
+
+}
+.dream2{
+background-color:darkblue;
+color: white;
+border-radius: 10px;
+padding: 10px;
+font-size: 10px;
+  font-weight: 10px;
+  width: fit-content;
+
+}

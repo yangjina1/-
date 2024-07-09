@@ -1,0 +1,70 @@
+.ediya {
+  background-color: #2a47bf;
+  color: white;
+  width: 440px;
+  border-radius: 5px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+  font-size: 18px;
+}
+.naver {
+  background-color: #09aa5c;
+  color: white;
+  width: 250px;
+  width: 440px;
+  border-radius: 5px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.kakao {
+  background-color: #f5ca0f;
+  color: black;
+  width: 440px;
+  border-radius: 5px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+  font-size: 18px;
+}
+.starbuks {
+  background-color: #006633;
+  color: white;
+  width: 440px;
+  border-radius: 5px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.button {
+  background-color: #6ad05b;
+  color: white;
+  width: 200px;
+  border-radius: 5px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.aa {
+  background-color: #dadce2;
+  color: gray;
+  width: 200px;
+  border-radius: 5px;
+  font-weight: 800;
+  padding-top: 29px;
+  padding-bottom: 29px;
+  text-align: center;
+  font-size: 18px;
+}
