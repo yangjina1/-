@@ -1,0 +1,27 @@
+.big {
+  width: 100px;
+  height: 100px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.big > i {
+  font-size: 30px;
+  color: white;
+}
+
+.b {
+  background-color: skyblue;
+  transition: all 0.3s;
+}
+
+.b:hover {
+  background-color: purple;
+}
+
+.i {
+  background-color: black;
+}
