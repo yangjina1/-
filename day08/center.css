@@ -1,0 +1,38 @@
+.header {
+  width: 100vw;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navi {
+  width: 100%;
+  height: 100%;
+  max-width: 960px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.ably {
+  color: #d9977f;
+}
+
+.linkbotton {
+  font-weight: 600;
+  padding: 14px 16px 14px 16px;
+  border-radius: 100px;
+}
+
+.linkbotton:hover {
+  background-color: #f2f2f2;
+}
