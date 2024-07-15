@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Gamja+Flower&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gamja+Flower&family=Gowun+Dodum&display=swap");
+@font-face {
+  font-family: "Ownglyph_UNZ-Rg";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/2406-1@1.0/Ownglyph_UNZ-Rg.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  width: 100vw;
+  height: 300vh;
+  background-color: skyblue;
+}
+
+.menu {
+  padding: 20px;
+  border: 3px solid pink;
+  width: fit-content;
+  font-size: 30px;
+  position: fixed;
+  top: 0px;
+}
+
+.mornig {
+  font-family: "Ownglyph_UNZ-Rg";
+}
+
+.lunch {
+  font-family: "Gamja Flower", sans-serif;
+}
+
+.dinner {
+  font-family: "Gowun Dodum", sans-serif;
+}
