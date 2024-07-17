@@ -1,0 +1,17 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: pink;
+}
+
+@media screen and (max-width: 1024px) {
+  body {
+    background-color: skyblue;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    background-color: indianred;
+  }
+}
